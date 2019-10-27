@@ -1,9 +1,8 @@
-/*
- * bubble_sortWithVec.cpp
- *
- *  Created on: Jul. 16, 2019
- *      Author: jass
- */
+* bubble_sortWithVec.cpp
+*
+*  Created on: Jul. 16, 2019
+*      Author: jass
+*/
 #include<iostream>
 #include<vector>
 #include<iterator>
