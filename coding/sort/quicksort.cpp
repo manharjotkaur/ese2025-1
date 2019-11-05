@@ -1,4 +1,5 @@
 // Example program quick sort
+//Manharjot
 #include <iostream>
 #include <string>
 using namespace std;
