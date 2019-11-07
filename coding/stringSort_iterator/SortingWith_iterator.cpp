@@ -26,7 +26,7 @@ int main()
     string words;
     vector<string> my_vec;
     std::vector<string>::iterator iter; 
-    cout<<"Please enter any sentence ="<<endl;
+    cout<<"Please enter any sentence: "<<endl;
    
     while (cin>>words)
     {
