@@ -1,4 +1,4 @@
-// manharjot Kaur
+// manharjot 
 
 #include<iostream>
 #include<vector>
